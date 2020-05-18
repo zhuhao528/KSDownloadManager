@@ -1,0 +1,27 @@
+{
+  "name": "KSDownloadManager",
+  "version": "0.1.0",
+  "summary": "A short description of KSDownloadManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhuhao/KSDownloadManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhuhao": "zhuhao@ksjgs.com"
+  },
+  "source": {
+    "git": "https://github.com/zhuhao/KSDownloadManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KSDownloadManager/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
