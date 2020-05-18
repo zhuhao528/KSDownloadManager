@@ -40,7 +40,7 @@
 
 /* Begin PBXFileReference section */
 		13BCB07A48BC6B01E86E7930 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		356D0A2E85EC8D41E0BDDEFA /* KSDownloadManager.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = KSDownloadManager.podspec; path = ../KSDownloadManager.podspec; sourceTree = "<group>"; };
+		356D0A2E85EC8D41E0BDDEFA /* KSDownloadManager.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = KSDownloadManager.podspec; path = ../KSDownloadManager.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		368D9B9C246D733A00D30509 /* KSCourseResourceDownload.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KSCourseResourceDownload.h; sourceTree = "<group>"; };
 		368D9B9D246D733B00D30509 /* KSCourseResourceDownload.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KSCourseResourceDownload.m; sourceTree = "<group>"; };
 		368D9B9F246D736500D30509 /* KSCourseResourceModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KSCourseResourceModel.m; sourceTree = "<group>"; };
