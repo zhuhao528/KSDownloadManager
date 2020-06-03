@@ -68,9 +68,9 @@ static KSDownloadManager *download = nil;
             }else{
                 if (success) {
                     success(filePath,response);
+                    [self.daskDic removeObjectForKey:url];
                 }
             }
-            [self.daskDic removeObjectForKey:url];
         }];
     }else{
         download = [[KSDownload alloc] init];
@@ -95,9 +95,9 @@ static KSDownloadManager *download = nil;
             }else{
                 if (success) {
                     success(filePath,response);
+                    [self.daskDic removeObjectForKey:url];
                 }
             }
-            [self.daskDic removeObjectForKey:url];
         }];
     }
     [task resume];
